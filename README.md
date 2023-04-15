@@ -38,7 +38,5 @@ I'm a Computer Science undergraduate currently in my 3rd year of engineering. As
 <p align="left">
                           
 <a href="https://www.github.com/SurkhabSingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.linkedin.com/in/surkhab-singh-0ba6a3258/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.twitter.com/surkhab71" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
