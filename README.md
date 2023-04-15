@@ -3,6 +3,7 @@ Hi 👋 My name is Surkhab Singh
 
 I am a full-stack Web Developer
 -------------------------------
+<img src="https://tenor.com/view/benim-s%C4%B1fat-gif-22499834">
 
 I'm a Computer Science undergraduate currently in my 3rd year of engineering. As a web developer, my aim is to build websites that have some real life use cases and are responsive and user-friendly at the same time. Always looking forward to exploring new things that I stumble upon everyday.
 
