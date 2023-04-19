@@ -5,7 +5,7 @@ I am a full-stack Web Developer
 -------------------------------
 <img src="https://media.discordapp.net/attachments/807809192537882647/1037093449863798875/blinky.gif">
 
-I'm a Computer Science undergraduate, currently in my 3rd year of engineering.Trying my luck in web development. As a web developer, my aim is to build websites that have some real life use cases and are responsive and user-friendly at the same time. Always looking forward to exploring new things that I stumble upon everyday.
+I'm a Computer Science undergraduate, currently in my 3rd year of engineering.Trying my luck in web development. As a web developer, I aim to build websites that have some real life use cases and are responsive and user-friendly at the same time. Always looking forward to exploring new things that I stumble upon everyday.
 
 *   🌍  I'm based in Delhi, India
 *   ✉️  You can contact me at [surkhab26singh@gmail.com](mailto:surkhab26singh@gmail.com)
