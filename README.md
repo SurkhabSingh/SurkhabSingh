@@ -3,7 +3,7 @@ Hi 👋 My name is Surkhab Singh
 
 I am a full-stack Web Developer
 -------------------------------
-<img src="https://media.discordapp.net/attachments/807809192537882647/1037093449863798875/blinky.gif">
+<img src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif">
 
 I'm a Computer Science undergraduate, currently in my 3rd year of engineering.Trying my luck in web development. As a web developer, I aim to build websites that have some real life use cases and are responsive and user-friendly at the same time. Always looking forward to exploring new things that I stumble upon everyday.
 
