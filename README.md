@@ -4,6 +4,8 @@ Hi 👋 My name is Surkhab Singh
 Full-Stack Web Developer
 -------------------------------
 <img src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif">
+![230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c](https://github.com/SurkhabSingh/SurkhabSingh/assets/120186223/d4a9a486-111e-47a3-88b7-1071cda93e17)
+
 
 Computer Science undergraduate, currently in my last year. Trying my luck in web development. Always aiming to build websites that have some real life use cases while keeping them responsive and providing the best user experience. Always looking forward to exploring new things that I stumble upon everyday.
 Developer by the day, gamer by the night. 🌞🎮
