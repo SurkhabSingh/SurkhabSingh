@@ -3,7 +3,7 @@ Hi 👋 My name is Surkhab Singh
 
 Full-Stack Web Developer
 -------------------------------
-<img src="https://github.com/SurkhabSingh/SurkhabSingh/assets/120186223/d4a9a486-111e-47a3-88b7-1071cda93e17">
+<img src="https://github.com/SurkhabSingh/SurkhabSingh/assets/120186223/d4a9a486-111e-47a3-88b7-1071cda93e17" height="300px">
 
 
 
