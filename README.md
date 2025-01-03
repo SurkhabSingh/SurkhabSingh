@@ -7,7 +7,7 @@ Full-Stack Web Developer
 
 
 
-Computer Science undergraduate, currently in my last year. Trying my luck in web development. Always aiming to build websites that have some real life use cases while keeping them responsive and providing the best user experience. Always looking forward to exploring new things that I stumble upon everyday.
+Computer Science graduate. Trying my luck in web development. Always aiming to build websites that have some real life use cases while keeping them responsive and providing the best user experience. Always looking forward to exploring new things that I stumble upon everyday.
 Developer by the day, gamer by the night. 🌞🎮
 
 *   🌍  I'm based in Delhi, India
