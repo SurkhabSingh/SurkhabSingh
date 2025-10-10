@@ -7,12 +7,11 @@ Full-Stack Web Developer
 
 
 
-Computer Science graduate. Trying my luck in web development. Always aiming to build websites that have some real life use cases while keeping them responsive and providing the best user experience. Always looking forward to exploring new things that I stumble upon everyday.
-Developer by the day, gamer by the night. 🌞🎮
+Computer Science graduate and a Fullstack dev. Always on the hunt to build something meaningful. Constantly exploring new tech and ideas that I stumble upon everyday.
+Also a pretty hardcore gamer. 🌞🎮
 
 *   🌍  I'm based in Delhi, India
 *   ✉️  You can contact me at [surkhab26singh@gmail.com](mailto:surkhab26singh@gmail.com)
-*   🧠  I'm currently learning Svelte, NestJs, Go.
 ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
