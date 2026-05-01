@@ -12,6 +12,7 @@ Also, I play a lot of games. 🌞🎮
 
 *   🌍  I'm based in Delhi, India
 *   ✉️  You can contact me at [surkhab26singh@gmail.com](mailto:surkhab26singh@gmail.com)
+*   You can check out my personal portfolio here:  https://surkhab-portfolio.vercel.app
 ### Skills 
 
 
