@@ -55,9 +55,8 @@ Also, I play a lot of games. 🌞🎮
                   
 <table>
 <tr>
-<td><a href="YOUR_GITHUB_LINK"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a></td>
-<td><a href="YOUR_LINKEDIN_LINK"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a></td>
-<td><a href="YOUR_TWITTER_LINK"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a></td>
+<td><a href="https://www.linkedin.com/in/surkhab-singh-0ba6a3258/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a></td>
+<td><a href="https://x.com/surkhab71"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a></td>
 </tr>
 </table>
 
